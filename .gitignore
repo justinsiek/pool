@@ -9,7 +9,8 @@
 /frontend/*.mobileprovision
 /frontend/*.orig.*
 /frontend/web-build/
-
+ 
+ .gitignore
 
 
 
