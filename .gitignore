@@ -1,0 +1,23 @@
+/frontend/node_modules/
+/frontend/.expo/
+/frontend/dist/
+/frontend/npm-debug.*
+/frontend/*.jks
+/frontend/*.p8
+/frontend/*.p12
+/frontend/*.key
+/frontend/*.mobileprovision
+/frontend/*.orig.*
+/frontend/web-build/
+
+
+
+
+/frontend/ios
+/frontend/android
+
+# macOS
+/frontend/.DS_Store
+
+# Temporary files created by Metro to check the health of the file watcher
+/frontend/.metro-health-check*
